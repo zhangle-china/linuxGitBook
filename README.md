@@ -1,3 +1,5 @@
-# My Awesome Book
+# 关于本书
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书是笔者学习Linux时所做的笔记。
+
+笔记写于2018年
