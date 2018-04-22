@@ -8,6 +8,7 @@
 
 * [Shell Scripts](di-shi-zhang.md)
   * [bash shell](di-shi-zhang/104.md)
+  * [正则表达式和常用工具](di-shi-zhang/105.md)
 
 * [防火墙与NAT服务器](fang-huo-qiang.md)
   * [防火墙](fang-huo-qiang/fhq.md)
